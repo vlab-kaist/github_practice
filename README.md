@@ -1,3 +1,2 @@
 # github_practice
-
-이 레포는 Git 실습용입니다.
+아 종강주세요 종강
